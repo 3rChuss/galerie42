@@ -3,7 +3,7 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 .blurb h2 {
-    color: #ea1c2c;
+    color: #a06d21;
     font-weight: 100;
     font-size: 2.5rem;
 }
@@ -17,6 +17,9 @@ body {
     margin-top: 100px;
     margin-bottom: 100px;
 }
+.img-fluid {
+    width: 120%;
+}
 #mainNavbar {
     font-size: 1.5rem;
     font-weight: 100;
@@ -25,15 +28,16 @@ body {
     color: white;
 }
 #mainNavbar .nav-link:hover {
-    color: #ea1c2c;
+    color: #a06d21;
 }
 #mainNavbar .navbar-brand{
-    color: #ea1c2c;
+    color: #a06d21;
     font-weight: 400;
+    font-size: 2rem;
 }
 
 #headingGroup span {
-    color: #ea1c2c ;
+    color: #a06d21;
 }
 #headingGroup h1 {
     font-weight: 100;
