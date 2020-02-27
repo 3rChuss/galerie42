@@ -1,6 +1,7 @@
 body {
     background: #dbcab8;
     font-family: 'Nunito', sans-serif;
+    overflow-x: hidden;
 }
 .blurb h2 {
     color: #a06d21;
